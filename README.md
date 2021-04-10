@@ -29,3 +29,20 @@
     * [ ] Usar comando **git push** para subir mis cambios al remoto.
 
         
+
+### Lab 8.2 Creacion organizacion de proyecto
+* [ ] Crear el archivo **node-CLI/app.js**
+  * [ ] Hacemos **git add  .**
+  * [ ] Hacemos **git commit -am "crear app.js"**
+  * [ ] Hacemos **git push**
+* [ ] Crear diretorio **node-CLI/tools** con
+  * [ ] crear **node-CLI/tools/index.js**
+  * [ ] crear **node-CLI/tools/argvs.js**
+  * [ ] crear **node-CLI/tools/files.js**
+  * [ ] crear **node-CLI/tools/options.js**
+  * [ ] crear **nodeCLI/tools/task.js**
+* [ ] Crear diretorio **node-CLI/db** con 
+  * crear **node-CLI/db/task.json**
+  * Hacemos **git add  .**
+  * Hacemos **git commit -am "crear tools senttings"**
+  * Hacemos **git push**
