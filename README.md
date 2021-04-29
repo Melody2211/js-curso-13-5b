@@ -1,4 +1,5 @@
 
+
 # Enlazando mi proyecto con GitHub:
 * .md MarkDown
 
@@ -46,3 +47,74 @@
   * Hacemos **git add  .**
   * Hacemos **git commit -am "crear tools senttings"**
   * Hacemos **git push**
+
+
+
+  ### Lab 8.3 Trabajando con ficheros en Node.
+  * [ ] Empesamos a trabajar con file.js
+    * [ ] Importamos paquetes Path y Colors
+
+  * [ ] Usamos paquetes importados en nuestro codigo con la funcion loadtask()
+    * [ ] Exportamos nuestra funcion loadtask()
+    * [ ] Pruebas de loadtask()
+    * [ ] Hacemos **git add .**
+    * [ ] Hacemos **git commit -am "crea funcion loadtask"**
+    * [ ] Hacemos **git push**
+
+ * [ ] Usamos paquetes importados en nuestro codigo con la funcion savetask()
+    * [ ] Exportamos nuestra funcion savetask()
+    * [ ] Pruebas de savetask()
+    * [ ] Hacemos **git add .**
+    * [ ] Hacemos **git commit -am "crea funcion savetask"**
+    * [ ] Hacemos **git push**
+    
+
+### Lab 8.4 Trabajando con opciones de Yargs
+* [ ] Empesamos a trabajar con **options.js**
+  * [ ] Creamos los objetos para nuestros comandos:
+      * description
+      * title
+      * completed
+      * erased
+ * [ ] Creamos los objetos para nuestros comandos:
+      * optionsCreate
+      * optionsUpdate
+      * optionsErase
+* [ ] Exportamos nuestras opciones
+* [ ] Hacemos **git add .**
+* [ ] Hacemos **git commit -am "Configurar arvs con optiones para los comandos"**
+* [ ] Hacemos **git push**
+
+
+### Lab 8.5 Trabajamos en funciones para los tasks o tareas.
+* [ ] Empesamos a trabajar con **task.js**
+  * [ ] Creamos funciones para trabajar los task:
+        * createTask
+        * updateTask
+        * eraseTask
+  * [ ] Exportamos nuestras opciones
+  * [ ] Hacemos **git add .**
+  * [ ] Hacemos **git commit -am "Configurar arvs con optiones para los comandos"**
+  * [ ] Hacemos **git push**       
+
+### Lab 8.6 Trabajamos con la configuración de Yargs
+* [ ] Empesamos a trabajar con el fichero **argvs.js**
+  * [ ] agregando los commandos que usara yargs
+  * [ ] exporto el objecto ```argv``` para nuestro proyecto.ss
+* [ ] empezamos a trabajar con ```index.js```
+  * [ ] importamos y exportamos nuestras herramientas.
+* [ ] Hacemos **git add .**
+* [ ] Hacemos **git commit -am "exportar tools componets"**
+* [ ] Hacemos **git push** 
+
+
+### Lab 8.7 Trabajamos con nuestra aplicación principal
+* [ ] Empezamos a trabajar con el fichero **app.js
+* [ ] Importamos las herramientas ```tasks argv``` y el paquete```colors```
+  * [ ] Usamos extrutura  ```switch```
+    * [ ] filtramos los comandos ```create update delete```
+* [ ] Hacemos **git add .**
+* [ ] Hacemos **git commit -am "finaliza proyecto-pruebas de funcionamiento"**
+* [ ] Hacemos **git push** 
+
+
